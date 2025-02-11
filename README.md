@@ -1,1 +1,1 @@
-# Practice
+This is a practice repository to understand git commands and github and also learning how to implement collaborative work
